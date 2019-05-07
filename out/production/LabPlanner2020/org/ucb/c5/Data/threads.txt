@@ -1,0 +1,5 @@
+pTarget-aspC1	pTarget-aspC2	pTarget-aspC3
+pTarget-cscB1	pTarget-cscB2	pTarget-cscB3
+pTarget-cscR1	pTarget-cscR2	pTarget-cscR3
+pTarget-ilvE1	pTarget-ilvE2	pTarget-ilvE3
+pTarget-tyrB1	pTarget-tyrB2	pTarget-tyrB3
