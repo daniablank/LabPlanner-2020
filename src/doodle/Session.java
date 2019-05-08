@@ -1,4 +1,6 @@
-package org.ucb.manage140l.model;
+package doodle;
+
+import doodle.Section;
 
 import java.time.LocalDateTime;
 

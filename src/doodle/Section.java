@@ -1,4 +1,4 @@
-package org.ucb.manage140l.model;
+package doodle;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;
