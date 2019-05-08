@@ -2,8 +2,8 @@ package org.ucb.c5.Assigner.constructionfile;
 
 import doodle.ParsePoll;
 import doodle.ProcessPoll;
-import org.ucb.manage140l.model.Section;
-import org.ucb.manage140l.model.Session;
+import doodle.Section;
+import doodle.Session;
 
 import java.io.File;
 import java.time.DayOfWeek;

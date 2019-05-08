@@ -1,6 +1,5 @@
 package doodle;
 
-import org.ucb.manage140l.model.Section;
 import org.ucb.manage140l.utils.FileUtils;
 
 import java.io.File;

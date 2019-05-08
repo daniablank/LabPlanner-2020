@@ -1,10 +1,8 @@
 package doodle;
 
 import org.ucb.c5.utils.FileUtils;
-import org.ucb.manage140l.model.Section;
 
 import java.time.DayOfWeek;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;

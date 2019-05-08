@@ -1,7 +1,6 @@
 package doodle;
 
-import org.ucb.manage140l.model.Section;
-import org.ucb.manage140l.utils.CombinationIterable;
+import org.ucb.c5.utils.CombinationIterable;
 
 import java.io.File;
 import java.util.*;

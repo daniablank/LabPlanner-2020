@@ -1,10 +1,8 @@
 package org.ucb.c5.Assigner.constructionfile;
 
 import java.io.File;
-import java.time.LocalTime;
 import java.time.Month;
 import java.time.temporal.ChronoUnit;
-import java.time.temporal.TemporalUnit;
 import java.util.*;
 
 import java.time.LocalDateTime;
@@ -12,8 +10,8 @@ import java.time.LocalDateTime;
 import doodle.ParsePoll;
 import doodle.ProcessPoll;
 import org.ucb.constructionFileModel.*;
-import org.ucb.manage140l.model.Section;
-import org.ucb.manage140l.model.Session;
+import doodle.Section;
+import doodle.Session;
 
 /**
  * Created by Daniel on 3/2/2019.

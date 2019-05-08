@@ -1,7 +1,5 @@
 package doodle;
 
-import org.ucb.manage140l.model.Section;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
