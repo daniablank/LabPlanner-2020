@@ -11,7 +11,6 @@ import org.ucb.c5.utils.*;
  * Created by Daniel on 2/22/2019.
  */
 public class BundleThreads {
-    //TODO: create a BundleSteps class, takes threads from this and bundles steps together for same thread,. Can be stubs.
     //list of lists of lists of steps? (thread->operation->step)
     ParseConstructionFile parser;
 
